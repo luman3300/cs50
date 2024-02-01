@@ -1,0 +1,12 @@
+#include<stdio.h>
+#include<cs50.h>
+
+int main(void)
+{
+
+
+int calls = get_int("calls: ");
+
+
+printf('calls equals %1', calls)
+printf("i've called my mom %c times today!`m", calls);
